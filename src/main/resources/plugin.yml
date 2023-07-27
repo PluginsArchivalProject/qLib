@@ -1,0 +1,6 @@
+name: qLib
+version: ggbd31f
+author: MineHQ Development Team
+main: net.frozenorb.qlib.qLib
+softdepend: [ CommonLibs ]
+load: STARTUP
